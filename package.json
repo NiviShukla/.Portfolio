@@ -1,20 +1,15 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "My portfolio website",
   "scripts": {
-    "build": "echo \"No build specified\" && exit 1",
-    "test": "echo \"No test specified\" && exit 1",
-    "start": "npm run open:browser",
-    "open:browser": "npm run open:mac || npm run open:win",
-    "open:mac": "open index.html",
-    "open:win": "start index.html"
+    "start": "open index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NiviShukla/.Portfolio.git"
+    "url": "https://github.com/NiviShukla/.Portfolio.git"
   },
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NiviShukla/.Portfolio/issues"
