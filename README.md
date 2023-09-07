@@ -1,7 +1,7 @@
 # .Portfolio
 
 Welcome to my portfolio! Here, you'll find a collection of projects I've worked on and a list of my skills. I am passionate about technology and enjoy creating innovative solutions to real-world problems. Feel free to explore and learn more about my work.
-
+The link for the portfolio is : https://niveshportfolio.netlify.app/
 
 ## Contact
 
